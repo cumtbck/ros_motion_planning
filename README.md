@@ -83,6 +83,7 @@ This repository provides the implementation of common **Motion Planning** algori
     ```
 
 6. Execute the code.
+    > NOTE: You should open a new terminal or `source ~/.bashrc` after the first time you run `build.sh`.
 
     ```bash
     cd scripts/
